@@ -1,0 +1,5 @@
+{
+  "entrypoint": "me.cookie.levelup.LevelUp",
+  "name": "LevelUp",
+  "version": "1.0.0"
+}
